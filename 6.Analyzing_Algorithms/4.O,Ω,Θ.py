@@ -9,3 +9,7 @@
 #3.Θ(g(n))	
 #   Tight bound	 
 #   Meaning: Grows exactly at this asymptotic rate
+
+
+#Notice: It's only called Tight bound when Upper bound & lower bound 
+#        happens AT THE SAME TIME !!!
