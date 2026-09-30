@@ -12,3 +12,10 @@ queue.popleft()                 # The second to arrive now leaves
 
 queue                           # Remaining queue in order of arrival
 #["Michael", "Terry", "Graham"]
+
+queue.pop()
+queue.pop()
+
+queue
+#["Michael"]
+
